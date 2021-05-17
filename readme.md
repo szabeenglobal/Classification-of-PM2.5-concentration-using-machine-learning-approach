@@ -37,6 +37,7 @@ The concentration range for PM2.5 is given in the following image. The concetrat
 Source: uk-air.defra.gov.uk
 
 **Classification of PM2.5 concentration**
+<br>
 According to World Health Organization, the  guideline values for fine particulate matter (PM2.5) are 
 - Annual mean < 10 μg/m3 
 - 24-hour mean < 25 μg/m3 
