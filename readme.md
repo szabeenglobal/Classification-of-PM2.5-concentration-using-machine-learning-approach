@@ -6,12 +6,12 @@ In this project, we tested 5 different machine learning classification models to
 Particulate matters or PM are non gaseous compounds and elements that can be found suspended in the air. Some of the PMs are toxix and hazardous. PM10 and PM2.5 refer to the particulate matter smaller than 10 and 2.5 microns in diameters respectively. High concentration or long term exposure of these toxic elements is a major public health concern.
 <br>
 <br>
+![alt text](https://github.com/szabeenglobal/Classification-of-PM2.5-concentration-using-machine-learning-approach/blob/main/images/Slide03.jpg)
 
-<div style="text-align:center"><img src="images/slide03.JPG" /></div>
 
 Exposure to PMs was found to be associated with serios health condition including cardiovascular disease, respiratory symptoms, diabetes, morbidity, mortatilty and others. In 2008, it is estimated that the average reduction in life expectancy of UK residents as a result of long term exposure to PM2.5 is months. In that year alone, it was estimated that 29,000 people lost their lives early due to PM2.5 exposure 1. In the following year, 7% of total death in UK was associated air pollution. 
 
-![alt-text-1](images/slide04.JPG "title-1") ![alt-text-2](images/slide06.JPG "title-2")
+![alt-text-1](https://github.com/szabeenglobal/Classification-of-PM2.5-concentration-using-machine-learning-approach/blob/main/images/Slide04.jpg) ![alt-text-2](https://github.com/szabeenglobal/Classification-of-PM2.5-concentration-using-machine-learning-approach/blob/main/images/Slide06.jpg)
 
 <div style="text-align:center"><img src="images/slide07.JPG" /></div>
 
