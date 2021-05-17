@@ -49,7 +49,6 @@ To simplify our model, we considered that if PM2.5 concentration is less than 10
 
 It is to be noted that this station measures Urban Background data at an altitude of 5m. Therefore, pollutant concentration level by the roadside [3] and low altitude level (average height level) is expected to be much higher. This is why the prediction based on this dataset will be highly non conserative.<br>
 
-![alt-text-2](https://github.com/szabeenglobal/Classification-of-PM2.5-concentration-using-machine-learning-approach/blob/main/images/Slide08.jpg)
 
 ![alt-text-2](https://github.com/szabeenglobal/Classification-of-PM2.5-concentration-using-machine-learning-approach/blob/main/images/Slide08.jpg)
 ![alt-text-2](https://github.com/szabeenglobal/Classification-of-PM2.5-concentration-using-machine-learning-approach/blob/main/images/Slide09.jpg)
