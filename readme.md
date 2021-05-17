@@ -19,15 +19,8 @@ Exposure to PMs was found to be associated with serios health condition includin
 
 Only cardiovascular disease cost the UK economy £29.1 billion in 2004. 60% of this cost was accounted to health 2. Due to significantly adverse public health threat that PM2.5 poses it is going to be benificial for people to have access to an automatic prediction system that will alert if the PM2.5 concentration is above a certain level. Current PM2.5 air quality banding system and proposed classification is discussed in the following paragraphs.
 
-** Air quality banding**
-
-Air quality index scale is a scale between 1-10, which is further divided in four categories: low, medium, high and very high.
-
-Low 1-3 0-80
-Moderate 4-6 81- 160
-High 7-9 161 - 240
-very high 10 more than 240
-
+**UK Air quality banding**
+<br>
 According to Committee on the Medical Effects of Air Pollutants (COMEAP) the overall air pollution index for a site or region is determined by the highest concentration of five pollutants:
 
 - Nitrogen Dioxide
@@ -35,13 +28,18 @@ According to Committee on the Medical Effects of Air Pollutants (COMEAP) the ove
 - Ozone
 - Particles smaller than 2.5µm (PM2.5)
 - Particles smaller than  10µm (PM10)
-The concentration range for PM2.5 is given in the following image. The concetration band for other pollutants can be found on defra's [site](https://uk-air.defra.gov.uk/air-pollution/daqi?view=more-info&pollutant=pm25#pollutant)
+
+Air quality index scale is a scale between 1-10, which is further divided in four categories: low, medium, high and very high.
+
+The concentration range for PM2.5 is given in the following image. The concetration range for other pollutants can be found on defra's [site](https://uk-air.defra.gov.uk/air-pollution/daqi?view=more-info&pollutant=pm25#pollutant)
+<br>
 ![alt-text-2](https://github.com/szabeenglobal/Classification-of-PM2.5-concentration-using-machine-learning-approach/blob/main/images/pm25-concentration-banding.jpg)
 Source: uk-air.defra.gov.uk
-** Classification of PM2.5 concentration**
-According to World Health Organization, the  guideline values Fine particulate matter (PM2.5) are 
-Annual mean < 10 μg/m3 
-24-hour mean < 25 μg/m3 
+
+**Classification of PM2.5 concentration**
+According to World Health Organization, the  guideline values for fine particulate matter (PM2.5) are 
+- Annual mean < 10 μg/m3 
+- 24-hour mean < 25 μg/m3 
 
 To simplify our model, we considered that if PM2.5 concentration is less than 10 then it will be defined as class 1,otherwise it will be defined as class 0
 
