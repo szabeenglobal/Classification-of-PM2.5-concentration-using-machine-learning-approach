@@ -10,6 +10,9 @@ In this project, we tested 5 different machine learning classification models to
 Particulate matters or PM are non gaseous compounds and elements that can be found suspended in the air. Some of the PMs are toxix and hazardous. PM10 and PM2.5 refer to the particulate matter smaller than 10 and 2.5 microns in diameters respectively. High concentration or long term exposure of these toxic elements is a major public health concern.
 <br>
 <br>
+<img src="https://github.com/szabeenglobal/Classification-of-PM2.5-concentration-using-machine-learning-approach/blob/main/images/slide03.jpg" alt="Your image title" width="250"/>
+
+
 ![alt text-1](https://github.com/szabeenglobal/Classification-of-PM2.5-concentration-using-machine-learning-approach/blob/main/images/slide03.jpg)
 
 
