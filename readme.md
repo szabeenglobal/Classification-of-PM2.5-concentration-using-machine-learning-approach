@@ -1,6 +1,7 @@
 # Supervised machine learning project
 ---
-## Classification of PM2.5 concentration using machine learning approach Google Colab link is [here](https://colab.research.google.com/drive/1__UHk7F9gGWpOvjv1G5mj6nBv-XVNn9Q?usp=sharing)
+## Classification of PM2.5 concentration using machine learning approach 
+## Google Colab link is [here](https://colab.research.google.com/drive/1__UHk7F9gGWpOvjv1G5mj6nBv-XVNn9Q?usp=sharing)
 In this project, we tested 5 different machine learning classification models to find out the best performing model for classifying PM 2.5 concentration levels. 
 
 Particulate matters or PM are non gaseous compounds and elements that can be found suspended in the air. Some of the PMs are toxix and hazardous. PM10 and PM2.5 refer to the particulate matter smaller than 10 and 2.5 microns in diameters respectively. High concentration or long term exposure of these toxic elements is a major public health concern.
